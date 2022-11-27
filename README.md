@@ -95,10 +95,14 @@ Please, install Node JS (link of the specified in Tech section) before run the c
 
 ![image](https://user-images.githubusercontent.com/107447818/204120894-6604534c-9ce7-4c97-8f25-89b4d781b7f5.png)
 
+- New employee added succesfully to DB:
+![image](https://user-images.githubusercontent.com/107447818/204120929-7ad6cb22-235c-4aee-ab6a-cbf819309330.png)
 
-- HTML file:
-![image](https://user-images.githubusercontent.com/107447818/204115148-ee8d5367-6819-4586-bc4e-e1dccad1ea75.png)
-![image](https://user-images.githubusercontent.com/107447818/204115154-376a43b8-1d27-4749-adc5-85e29a54a42a.png)
+- Updated role of an specific employee:
+![image](https://user-images.githubusercontent.com/107447818/204120990-c9c7a321-299e-4b0f-8868-5a7c62f72418.png)
+
+- Deleting an employee:
+![image](https://user-images.githubusercontent.com/107447818/204121009-93868b18-37e5-4db1-9c54-c9a66c6a8f10.png)
 
 [Content](#Content)
 
