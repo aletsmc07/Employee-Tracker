@@ -54,11 +54,13 @@ Clone the repository on your PC, open it on Visual Studio Code or other source c
 - To create and run database start MySQL:
 ```
     #work on MySQL
-    mysql -u root -p
+        mysql -u root -p
+        
     # to create the DB schema
-    db/SOURCE schema.sql
+        db/SOURCE schema.sql
+    
     # to add some data (optional; this example contains data to show that the app works)
-    db/SOURCE seeds.sql
+        db/SOURCE seeds.sql
 ```
 
 - To start the app (maybe you will need to open other commandline without close or stop MySQL and type the next command:
